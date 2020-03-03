@@ -1,4 +1,4 @@
-~~Welcome to this wonderful repository 😀~~ # TODO: change this
+# PTIN 2020
 
 ## Features
 
